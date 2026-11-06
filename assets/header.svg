@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Woftt257 — Build useful things. Make complex things clear.</title>
+  <desc id="description">Warm off-white lettering on charcoal, with a restrained mint accent and thin connected system geometry on the right.</desc>
+
+  <rect width="1200" height="300" fill="#1c211f"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" fill="none" stroke="#35413b"/>
+  <path d="M64 35H112" fill="none" stroke="#a2d8bf" stroke-width="3"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#f2efe7">
+    <text x="64" y="117" font-size="78" font-weight="600" letter-spacing="-2">Woftt257</text>
+    <g font-size="40" font-weight="400" letter-spacing="-0.6">
+      <text x="67" y="181">Build useful things.</text>
+      <text x="67" y="232">Make complex things clear.</text>
+    </g>
+  </g>
+
+  <g fill="none" stroke="#43534b" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M788 75H909L973 139H1136"/>
+    <path d="M788 225H877L957 145V75H1080"/>
+    <path d="M829 139H893L973 219H1136"/>
+    <path d="M1040 75V219"/>
+    <path d="M1080 75H1136V139"/>
+    <rect x="1008" y="107" width="64" height="64" fill="#232b27"/>
+  </g>
+
+  <path d="M788 175H869L905 139H1008" fill="none" stroke="#a2d8bf" stroke-width="2"/>
+
+  <g fill="#1c211f" stroke="#647c6e" stroke-width="1.5">
+    <circle cx="788" cy="75" r="4"/>
+    <circle cx="788" cy="225" r="4"/>
+    <circle cx="957" cy="75" r="4"/>
+    <circle cx="1040" cy="219" r="4"/>
+    <circle cx="1136" cy="139" r="4"/>
+    <circle cx="1136" cy="219" r="4"/>
+  </g>
+  <g fill="#a2d8bf">
+    <circle cx="788" cy="175" r="4"/>
+    <circle cx="905" cy="139" r="4"/>
+    <rect x="1034" y="133" width="12" height="12"/>
+  </g>
+
+  <path d="M64 268H1136" fill="none" stroke="#35413b"/>
+</svg>
